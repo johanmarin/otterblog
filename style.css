@@ -136,7 +136,9 @@ a {
 .cv{  
   background-image:url(icons/pdf2x.png);
 }
-
+.otter{
+  background:url(icons/Rstudio.png)no-repeat;
+}
 /*  â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“  SECTIONS   â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“  */
 .wrapper {
   position: relative;
